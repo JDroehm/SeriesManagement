@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programmierschnittstelle", "progrmmierschnittstelle\programmierschnittstelle.csproj", "{A44B5319-977F-4B54-B998-66CA45F5B9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerienVerwaltung", "SerienVerwaltung\SerienVerwaltung.csproj", "{2496B0C1-6010-42F6-A760-2903F767BD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44B5319-977F-4B54-B998-66CA45F5B9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44B5319-977F-4B54-B998-66CA45F5B9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44B5319-977F-4B54-B998-66CA45F5B9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44B5319-977F-4B54-B998-66CA45F5B9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2496B0C1-6010-42F6-A760-2903F767BD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2496B0C1-6010-42F6-A760-2903F767BD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2496B0C1-6010-42F6-A760-2903F767BD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2496B0C1-6010-42F6-A760-2903F767BD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
